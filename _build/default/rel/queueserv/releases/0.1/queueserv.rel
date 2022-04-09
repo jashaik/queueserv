@@ -1,0 +1,3 @@
+{release,{"queueserv","0.1"},
+         {erts,"10.7"},
+         [{queueserv,"0.1.0"},{kernel,"6.5.2"},{stdlib,"3.12"}]}. 

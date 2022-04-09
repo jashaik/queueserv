@@ -1,0 +1,10 @@
+{application,queueserv,
+             [{description,"An OTP application"},
+              {vsn,"0.1.0"},
+              {registered,[]},
+              {mod,{queueserv_app,[]}},
+              {applications,[kernel,stdlib]},
+              {env,[]},
+              {modules,[queueserv_app,queueserv_serv,queueserv_sup]},
+              {licenses,["Apache 2.0"]},
+              {links,[]}]}.

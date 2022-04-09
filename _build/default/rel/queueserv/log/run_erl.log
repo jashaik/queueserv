@@ -1,0 +1,8 @@
+run_erl [75353] Sat Apr  9 17:28:54 2022
+Args before exec of shell:
+run_erl [75353] Sat Apr  9 17:28:54 2022
+argv[0] = sh
+run_erl [75353] Sat Apr  9 17:28:54 2022
+argv[1] = -c
+run_erl [75353] Sat Apr  9 17:28:54 2022
+argv[2] = exec "/Users/jashaik/next/programs_20210331/erlang_test/queueserv/_build/default/rel/queueserv/bin/queueserv" "console" ''  --relx-disable-hooks

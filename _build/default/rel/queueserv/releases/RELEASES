@@ -1,0 +1,6 @@
+%% coding: utf-8
+[{release,"queueserv","0.1","10.7",
+          [{queueserv,"0.1.0","./lib/queueserv-0.1.0"},
+           {kernel,"6.5.2","./lib/kernel-6.5.2"},
+           {stdlib,"3.12","./lib/stdlib-3.12"}],
+          permanent}].
