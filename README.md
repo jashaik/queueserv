@@ -26,6 +26,3 @@ Client
 Example
 -------
 <img width="434" alt="Screenshot 2022-04-10 at 9 03 41 PM" src="https://user-images.githubusercontent.com/76031665/162627213-ae150988-b2ff-463b-872b-eaa143668c69.png">
-
-Example 2
----------
