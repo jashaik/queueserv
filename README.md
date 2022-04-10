@@ -10,7 +10,7 @@ Build
     
 Server
 ------
-1. clone the source code `git clone /https://github.com/jashaik/queueserv.git`
+1. clone the source code `git clone https://github.com/jashaik/queueserv.git`
 2. Go to `_build/default/rel/queueserv/` and start the service. 
 `
    $ bin/queueserv daemon
@@ -26,3 +26,6 @@ Client
 Example
 -------
 <img width="434" alt="Screenshot 2022-04-10 at 9 03 41 PM" src="https://user-images.githubusercontent.com/76031665/162627213-ae150988-b2ff-463b-872b-eaa143668c69.png">
+
+Example 2
+---------
